@@ -29,9 +29,14 @@
   "hideInEditor": false,
   "samples": [
     {
-        "displayName": "Examples",
-        "description": "Example showcase of Simple Room Join, Push-to-talk, Audio 3D, ...",
-        "path": "Samples"
-    }
+        "displayName": "Basics",
+        "description": "Basic examples showcasing Simple Room Join, Push-to-talk, Audio 3D, ...",
+        "path": "Samples/Basics"
+    },
+    {
+      "displayName": "Multiplayer Sample with Photon",
+      "description": "Full sample project using ODIN and \"Photon PUN 2 Free\", showcasing how to integrate positional Voice Chat, Radio Voice Chat and Environmental Audio Occlusion effects into your game.",
+      "path": "Samples/ODIN-Photon"
+  }
   ]
 }
